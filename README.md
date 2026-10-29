@@ -18,9 +18,6 @@ Display the final predicted output.
 
 ## Program to implement the linear regression using gradient descent.
 
-## Developed by: SHARIKA R
-
-## RegisterNumber:  212223230204
 
 ```
 import numpy as np
